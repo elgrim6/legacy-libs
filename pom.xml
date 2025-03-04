@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.your-elgrim6</groupId>
+    <groupId>com.github.elgrim6</groupId>
     <artifactId>legacy-libs</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
     <modules>
-        <module>SignatureView</module>
+        <module>libs/SignatureView</module>
         
         <!-- Add more libraries as needed -->
     </modules>
